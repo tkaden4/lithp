@@ -1,0 +1,6 @@
+(print print)
+(print 0.99)
+(print 8)
+(print :atom)
+(print "file")
+(print 'f')

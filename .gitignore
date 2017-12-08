@@ -1,0 +1,9 @@
+*.swo
+*.swp
+*.o
+*.exe
+lithpc
+*vgcore*
+*.prof
+*.out
+.dub/
